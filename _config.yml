@@ -1,3 +1,5 @@
-theme: minima  # 使用默认的 Minima 主题
 title: Raytronics
 description: A blog for DIY and debugging experiments
+theme: minima
+baseurl: "" # 如果是顶级域名，不需要设置
+url: "https://raytronics.github.io"
